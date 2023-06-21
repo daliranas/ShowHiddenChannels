@@ -1,0 +1,2 @@
+# ShowHiddenChannels
+ShowHiddenChannels better Discord
